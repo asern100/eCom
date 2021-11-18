@@ -1,22 +1,22 @@
 export const sliderItems = [
     {
       id: 1,
-      img: "https://o.remove.bg/downloads/e1dafe55-debe-48b9-a7ef-775d8505b203/image-removebg-preview.png",
+      img: "https://cdna.lystit.com/photos/de27-2015/01/29/polo-ralph-lauren-blue-big-and-tall-cotton-jogger-sweatpants-product-1-27423905-0-024881894-normal.jpeg",
       title: "MUSLIM STYLE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "f5fafd",
     },
     {
       id: 2,
-      img: "https://o.remove.bg/downloads/adf78977-bec9-41e9-bc12-d609c4b275aa/image-removebg-preview.png",
+      img: "https://qph.fs.quoracdn.net/main-qimg-08336000d1b922dc8e0762b59d1ba7b7.webp",
       title: "KAFTAN COLLECTION",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "fcf1ed",
     },
     {
       id: 3,
-      img: "https://o.remove.bg/downloads/4c1e6613-5ca8-43ee-96f4-18b5e6612c16/image-removebg-preview.png",
-      title: "CUSUAL STYLE",
+      img: "https://www.cho.co.uk/images/lacoste-mens-track-trousers-xh6881-p15614-505364_medium.jpg",
+      title: "CUSUAL LOVE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "fbf0f4",
     },
@@ -25,17 +25,17 @@ export const sliderItems = [
   export const categories = [
     {
       id: 1,
-      img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      img: "https://cdn.thecoolist.com/wp-content/uploads/2017/08/How-to-dress-for-your-body-type.jpg",
       title: "SHIRT STYLE!",
     },
     {
       id: 2,
-      img: "https://images.pexels.com/photos/2983464/pexels-photo-2983464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      img: "https://i.insider.com/569facc8c08a806f008bac2d?width=889&format=jpeg",
       title: "LOUNGEWEAR LOVE",
     },
     {
       id: 3,
-      img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      img:  "https://www.toptrendsguide.com/wp-content/uploads/2020/08/Dress-For-The-Occasion.jpg",
       title: "LIGHT JACKETS",
     },
   ];
